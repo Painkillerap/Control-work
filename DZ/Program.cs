@@ -6,7 +6,7 @@ PrintArray(tempArray);
 
 string[] ArrayMin3(string[] Array, string[] tempArray)
 {
-    int count = 1;
+    int count = 0;
     for (int i = 0; i < Array.Length; i++)
     {
         if (Array[i].Length <= 3)
