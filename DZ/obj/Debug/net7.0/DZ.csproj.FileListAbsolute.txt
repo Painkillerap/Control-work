@@ -1,0 +1,15 @@
+C:\Uroki\GeekBrains\Spec\Kontr\Control-work\DZ\obj\Debug\net7.0\DZ.csproj.AssemblyReference.cache
+C:\Uroki\GeekBrains\Spec\Kontr\Control-work\DZ\obj\Debug\net7.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Uroki\GeekBrains\Spec\Kontr\Control-work\DZ\obj\Debug\net7.0\DZ.AssemblyInfoInputs.cache
+C:\Uroki\GeekBrains\Spec\Kontr\Control-work\DZ\obj\Debug\net7.0\DZ.AssemblyInfo.cs
+C:\Uroki\GeekBrains\Spec\Kontr\Control-work\DZ\obj\Debug\net7.0\DZ.csproj.CoreCompileInputs.cache
+C:\Uroki\GeekBrains\Spec\Kontr\Control-work\DZ\bin\Debug\net7.0\DZ.exe
+C:\Uroki\GeekBrains\Spec\Kontr\Control-work\DZ\bin\Debug\net7.0\DZ.deps.json
+C:\Uroki\GeekBrains\Spec\Kontr\Control-work\DZ\bin\Debug\net7.0\DZ.runtimeconfig.json
+C:\Uroki\GeekBrains\Spec\Kontr\Control-work\DZ\bin\Debug\net7.0\DZ.dll
+C:\Uroki\GeekBrains\Spec\Kontr\Control-work\DZ\bin\Debug\net7.0\DZ.pdb
+C:\Uroki\GeekBrains\Spec\Kontr\Control-work\DZ\obj\Debug\net7.0\DZ.dll
+C:\Uroki\GeekBrains\Spec\Kontr\Control-work\DZ\obj\Debug\net7.0\refint\DZ.dll
+C:\Uroki\GeekBrains\Spec\Kontr\Control-work\DZ\obj\Debug\net7.0\DZ.pdb
+C:\Uroki\GeekBrains\Spec\Kontr\Control-work\DZ\obj\Debug\net7.0\DZ.genruntimeconfig.cache
+C:\Uroki\GeekBrains\Spec\Kontr\Control-work\DZ\obj\Debug\net7.0\ref\DZ.dll
