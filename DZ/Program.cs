@@ -1,27 +1,27 @@
 ﻿Console.Clear();
-string[] Array = { "Hello", "String", "2", "World", ";)", "12", "Rim" };
-string[] tempArray = new string[Array.Length];
-ArrayMin3(Array, tempArray);
-PrintArray(tempArray);
-
-string[] ArrayMin3(string[] Array, string[] tempArray)
+string[] ArrayMin3(string[] Array)
 {
-    int count = 0;
+    int count = Array.Length;
+    string[] tempArray = new string[count];
     for (int i = 0; i < Array.Length; i++)
     {
         if (Array[i].Length <= 3)
         {
-            tempArray[count] = Array[i];
-            count++;
+            tempArray[i] = Array[i];
+        }
+        else
+        {
+            count=count-1;
         }
     }
     return tempArray;
 }
 
-void PrintArray(string[] Array)
-{
-    for (int i = 0; i < Array.Length; i++)
-    {
-    System.Console.Write($"{Array[i]} ");
-    }
-}
+string[] Array = { "Hello", "String", "2", "World", ";)", "12", "Rim" };
+Console.Write("Массив: ");
+Console.WriteLine("[" + string.Join(", ", Array) + "]");
+string[] result=ArrayMin3(Array);
+
+Console.Write("Элементы массива с длинной 3 или меньше: ");
+result = result.Where(x => x != null).ToArray();
+Console.WriteLine("[" + string.Join(", ", result) + "]");
