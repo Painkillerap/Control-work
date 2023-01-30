@@ -8,6 +8,8 @@
 *  Продолжаем движение по циклу пока выполняется условие.
 * Далее выводим новый массив.
 
-Графическое представление метода в папке **Schem** в двух файлах разных расширениях.
+Графическое представление метода в папке [**Schem**](https://github.com/Painkillerap/Control-work/blob/main/Schem/Schema.drawio.png) в двух файлах разных расширениях.
+![Схема](Schema.png)
 
-Реализация алгоритма по пути **Control-work/DZ/Program.cs**
+# [Реализация на языке С#](https://github.com/Painkillerap/Control-work/blob/main/DZ/Program.cs,Kod.png)
+![Код](Kod.png)
